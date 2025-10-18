@@ -1,0 +1,2552 @@
+Do you ever work in a bar?
+I've never worked in a bar. I have a Guinness keg in my head.
+Actually, do you want another pint?
+Yeah, sure, sure. I was talking to a guy who runs procurement and I was like,
+you have to understand, I'm just getting bullshitted to all day, you know.
+It's just all day relentless, absolute nonsense in my face.
+People do not have enough empathy for the procurement person
+who just has to endure non-stop nonsense.
+Absolute garbage like the A.
+ChatGPT launching on a Thursday.
+I had a call with Fergal, our head of A.I. on a Friday.
+Owen made the decision, like, on the Sunday, I think it was,
+and we started working on, like, the A.I. version of Intercom on the Monday.
+It was a lot easier to invest when being a founder. It was uncool.
+I blame Genuine into social network.
+I blame just kind of the entrepreneurial lifestyle.
+I blame my TikTok, I blame all these things.
+So have a sush. Yeah, yeah, yeah, exactly, yeah.
+You just show me your technique and I will learn from you
+because I'm pretty sure I'm doing it wrong.
+This is the first time I've ever poured a pint to Guinness in America.
+My fellow Irishman, Des Trainers, the co-founder of Intercom,
+the customer service giant turned A.I. company.
+He's also a prolific blogger and one of the most respected voices
+on product strategy. Cheers.
+Cheers.
+OK.
+You are my first Irish guest,
+and so I actually have a critically important question
+that has been burning this entire time.
+Whenever we release these episodes,
+all the YouTube commenters are obsessed with people splitting the G.
+This was never a thing for me growing up,
+a thing I never saw in Ireland.
+It's like an invasive species, maybe from TikTok.
+Is this a thing?
+No.
+It's not amongst anyone who you would respect.
+It's very much an actual TikTok thing.
+It's a slight bit of a tourist thing because of that.
+But it basically means that you're drinking,
+I think it's a quarter to a pint in your first mouthful,
+and it's like, I don't know.
+A waste of good Guinness. Yes.
+Yeah, OK.
+It's a little like when I first came to America,
+drinking games, it's like, back home, drinking is very serious.
+I couldn't make a game out of it.
+Exactly, yeah, yeah.
+I was very confused by that in America.
+OK, and then my other stout-related question
+is that I saw you pining on like Beamish, Murphy's,
+everything like this.
+I don't know, what is your view on the stout landscape
+in particular?
+I probably default to Guinness.
+There's been moments when I'd go cook any Beamish, Murphy's.
+It's kind of usually it's like when you're every year
+in their respective hometowns,
+but for the most part, I default to Guinness.
+And for like one brief day, I tried the island's edge.
+I don't know if you remember when,
+I think it was Heineken.
+Heineken launched the Guinness killer
+in the last of all of six months or something like that.
+I think literally they were giving it away at the end
+until it couldn't get rid of it by the end.
+Have you heard all the Guinness stats about,
+Guinness used to be a majority of Ireland's stock markets.
+Obviously the canal system was built for Guinness distribution,
+but sometimes we can tell people
+that Guinness used to be a very significant part
+of Ireland's economy.
+They don't believe you, but the stats are really there.
+And it's weird, like it trickles into modern day,
+like where I live by Castle and Ock,
+like a lot of chunks of the Phoenix Park are owned still,
+or they're exactly where the houses were used to be there,
+and it's like they don't,
+maybe they donated it to OPW or something like that,
+but yeah, it's pretty much still kind of carries forward.
+Yes, okay.
+And we're not actually gonna talk about Guinness
+the whole time, we should also talk about Intercom.
+And I was thinking in preparing for this,
+I'm very impressed by businesses
+that can reinvent themselves
+or maybe even reinvent themselves multiple times.
+You think about Netflix,
+they started with the original DVD by Mail business,
+and then, oh my God, the internet's coming
+and they had a few abortive attempts at streaming,
+like remember the whole Quikster debacle,
+but then really cracked streaming movies.
+And so you can watch The Godfather
+or you can watch whatever movie you want on Netflix.
+And then of course,
+as they got more squeezed by the rights holders,
+you actually can't go watch The Godfather
+on Netflix anymore.
+Or you type any movie into Netflix and it's not there,
+because now Netflix is all first-party content
+that they have developed themselves.
+And so they've reinvented the platform once again
+to be rather than watching other people's content,
+watching Netflix content.
+They've twice reinvented the company from DVD by Mail
+to streaming third-party content
+to streaming first-party content.
+Intercom strikes me as a business
+that has similarly been reinvented twice,
+where you guys got started with the Intercom feature
+of you can talk to your customer through the website
+and then you guys became a customer service company,
+which is actually different for reasons we can talk about.
+And now you're becoming an AI customer service company.
+That's my theory of Intercom.
+Is that actually an accurate theory?
+Yeah, that's true.
+There's a bit of extra context I give it.
+So when we started, it wasn't really,
+it was like about like this is like literally when we started.
+And our initial plan was like,
+hey, you remember the Intercom Stripe was in
+its early days back then as well,
+but like there was no tooling to run a SaaS business.
+It was like literally nothing.
+It was like you were using,
+you were kind of abusing like PayPal for payments
+and you were using like MailChimp
+for like talking to your customers.
+And so, you know, we had this idea of like
+talking to your customers is really important.
+So someone should work on that, you know?
+And like there's so much stuff in the early releases
+of Intercom, like it was the first live CDP,
+like you actually see who's live in your product right now
+and what you're doing and you can store data again.
+So you can say, show me all my premium customers.
+And weirdly like use cases like that still exists today.
+Like I was in Denmark last week and I was like,
+oh, I should message all my Copenhagen customers into you.
+And like all that stuff is like,
+you're still kind of like, who else is doing this?
+Yes, yes.
+So we started out like with a very,
+very general purpose idea,
+which was like that internet businesses
+talk to their customers.
+And then we kind of fell in love with this jobs
+to be done methodology.
+And like one of the things you do in that
+is you look at how your product is actually used
+and then you iterate on it from that point of view.
+And that kind of led us down
+this path of sales marketing and support.
+And then I guess to skip a load of years here,
+let's just say 2020, things were great.
+2022, things weren't as great.
+And then it was like, we need to focus.
+It's concise, precieve of the period.
+Let's just cut a lot of the reasons why or whatever.
+Some sort of disease as well along the way.
+But yeah, so 2022, like it was like,
+own returned on the left in 2020, I think.
+Own returned, business had been like
+in declining that new revenue.
+He said like we need to focus,
+we're gonna focus on customer service.
+And then a short time later,
+I think maybe like 10 weeks later,
+AI happened, Chachi PT launched,
+I think on a Thursday.
+I think we, I had a call with Fergal,
+our head of AI on Friday.
+I spoke with Owen Altree the weekend and like,
+we made the decision, Owen made the decision,
+like on the Sunday, I think it was.
+And we started working on like the AI version
+of Intercom on the Monday.
+And that was like 2022.
+And I think like we're an offered out.
+It's hard to say exactly where things would have gone,
+but certainly that's the reason I'm sitting here.
+And obviously people are naturally wired to be skeptical.
+You know, when they hear the AI version of Intercom,
+you have everyone and their mother out there
+saying we're an AI company now,
+but you actually are an AI company now.
+And so describe what the AI version of Intercom
+actually means.
+The biggest thing it means for us is our product, FIN.
+So we launched FIN in March, I think 2023.
+We launched a few little AI features.
+We were the first people to actually build anything on,
+like the GPT 3.5.
+And then we launched FIN in March GPT 4 launch day.
+And FIN was like basically the first job bot that worked.
+It's the best way you can think about it.
+What that really meant was we could actually have
+conversations and answer questions.
+And when we launched it,
+it was doing like I think 25% resolution rate.
+And that was like crazy numbers.
+Today it's like 65%.
+And today FIN's resolving about it.
+Over a million conversations a week.
+It's handled about 40 million actual end-to-end
+customer service scenarios to date.
+It's, you know, growing like over 300% year over year.
+It's like, you know, we charge a dollar per answer
+so you can work your revenue at $0.99 even.
+It's becoming like just this, you know,
+AI sort of growth story inside Intercom,
+which is already like a sort of, you know,
+a mature SaaS business into hundreds of millions
+of revenue.
+But I think when we think about like,
+what does it mean to be AI?
+It's like, first of all,
+what is the future growth of your business?
+And the answer is AI.
+And then over the last, say, six months,
+we've been going hard on being like a kind of properly
+deep AI company.
+We're now at a point where we're like,
+you know, we're using our own models inside FIN.
+We're using custom re-rank or custom retrieval,
+summarization, et cetera.
+We're doing a lot of this work.
+We have like an AI lab of 50 people
+and we really just kind of have gone all in
+on the idea that like, you know,
+like obviously Intercom still has a help desk product,
+but like the entire future of CS is clearly going to be AI.
+And that's where we're all in on.
+Yes, yes.
+Maybe there's the repeated pattern in tech
+where the enthusiasm for technologies
+comes before the technology being ready.
+And so people are excited about computer games
+before the wave of like good computer games.
+Or, you know, people are pitching a mobile internet
+and, you know, you'll buy cinema tickets via WAP.
+It's like J2ME and all that.
+Exactly, yeah, yeah.
+And we actually had our version of that.
+Like we had a product called Resolution Bot.
+It was originally called Answer Bot,
+but I think Xandas is trying to see us
+because they had a competitive product.
+But like Resolution Bot was actually a good AI product
+at the time, but it's just AI wasn't there.
+Right.
+And so that was the actual reason why we had such a head start
+because we actually already had a little AI group ready to go.
+We'd already built a RAG engine ready to go.
+So we were able to jump a lot quicker than a lot of folks.
+But yeah, like it's,
+I think a lot of these products,
+you're right, like having kind of two or three stabs
+before they go mainstreaming.
+Yeah, and there was this whole enthusiasm cycle
+for bots in 2017, I want to say,
+and the tech just wasn't there at all.
+It was a horrible experience for most of us.
+It was also quite clunky to set up for businesses.
+Yeah, yeah, yeah.
+And at some point I think everyone looked,
+you know, there was a genuine question at times
+where it was just like,
+is a web form not just better?
+Yeah.
+Like, I think in a lot of cases it was.
+Yeah, yeah, yeah.
+Whereas I think now people are starting to have the
+experience of, you know, the classic thing is,
+you know, you're talking to a bot, it's like,
+please, will you please just connect me to a human?
+Whereas now it's like,
+can you just connect me to a bot
+We see that a lot.
+We see like, oh, hey, Jenny, sorry to bother you.
+Can you put it back on to Finn?
+It was actually doing a great job.
+It just thought it wasn't, you know,
+because I asked a few too many questions.
+But yeah, I think like,
+there's a general pattern we're noticing,
+which is like a lot of experiences
+are just better digitized
+because it partially causes like human considerations.
+Like one of the reasons people go to like the
+kiosk in McDonald's, I suppose,
+because as opposed to their actual counter is because
+they don't have to think out loud in front of a human.
+They're like, give me a second.
+Do I want fries?
+Yeah.
+A lot of the reason why people prefer Waymo,
+for some people it's like,
+you just don't want to have the conversation.
+I don't want the awkwardness around tipping
+or whatever it might be.
+And I just think what we see a lot is like,
+once Finn answers one question,
+well, people are like, oh, this thing's paying out.
+Let me out of your dear nut.
+I'm going to ask you all of the things
+I was wondering about.
+Yeah, yeah, yeah.
+Whereas I think they'd feel probably nearly weird
+when loading all that on one per CS rep, you know.
+Okay, so you're seeing a lot of induced demand
+where people use interactive customer service more.
+Which is interesting because it turns Finn
+into not just being a kind of a, you know,
+a cost takeout,
+but also it's like,
+how much better would your business be
+if everyone knew how to do everything they wanted to do?
+Yes.
+And like the answer is all, you know,
+a lot of the time it's a lot better.
+And it's not just the whole like,
+I don't want to burn any human.
+It's also like people often,
+one of the biggest fallacies in AI
+is people compare it with like,
+with this perfect human that does not exist.
+Like the driver that never crashes,
+or like in our case it's like,
+well, a human artisanal handcrafted answer.
+And I'm like, yeah, like let's pretend
+that will be there in seven seconds.
+It will be.
+It'll probably be 18 minutes.
+It's also not going to be perfect.
+It might not be that language.
+And let's assume you're doing those handcrafted answers
+which you're not.
+You know, it's like visually trying to close the case
+before they move on to the next one.
+So like, I think, yeah, comparing or like,
+I don't know, we have this thing
+where we expect our AI products to be flawless
+and we're totally tolerant of like humans,
+jungle, punga, over only speaking one language
+and only working six errors or whatever, you know.
+It's just a funny contrast.
+Yes, yes.
+That's interesting.
+And it's interesting you talk about
+product onboarding here
+because I think of Intercom as you guys are very,
+you guys have a house view
+that product onboarding should be much better.
+And I remember a lot of the use cases
+you would talk about for the original Intercom
+talk to your customers through the website
+was that you can have personalized nurture tracks
+and like it's weird that you drop people into SaaS products
+and just expect them to be able to use them right.
+And you should see how people are using the product
+and then give them kind of specific steers
+based on their usage.
+And it sounds like you're coming to this vision again,
+which is people should have better onboarding support.
+People should be nurtured
+along based on their use case,
+but now kind of interactively AI powered.
+Yeah, I mean, we talk a bit about like,
+this idea of like,
+what is ultimately a customer agent going to be like,
+that's what fame will be as it grows up.
+It'll just become like this way
+in which customer conversations are handled.
+And obviously the most direct attack here
+is like customer service,
+but I think every single customer touch point
+can be improved by like,
+by the basic immediate accurate answers
+available all the time.
+Isn't obvious limitation,
+like right now you require customers
+to come up with a prompt.
+And if you look at why TikTok is so successful,
+it's like, I would never prompt for,
+I want to see videos of planes landing low
+over the beach in St. Martin,
+but like it turns out that's what I want to see.
+Yeah, yeah, yeah.
+And similarly, people probably have many more things they need
+and they will actually come up with a prompt for.
+And I think the product today is still mostly prompt based.
+As in it's reacting to what customers say.
+Exactly, a customer has to come on
+and like type things into the box.
+I mean, today that's what customer service is.
+It's still like, kind of like,
+here's my problem and it will solve it.
+I think, you know, for sure,
+there's obvious directions.
+This will go as like,
+hey, what does a good customer look like?
+And maybe we can honestly infer it out as well.
+But certainly like, people like you should do things like this
+is definitely an understandable domain.
+And then I just think working at the right level
+of interrupt of help, you know,
+like you don't want to be too naggy or too poppy.
+Like, you know, it gets kind of quite grating.
+But I think if you can get the first message, right,
+you can sort of say, hey, if you come here,
+you're always going to get the thing you should do next
+or like the thing it looks like you're stuck in.
+Like if someone's on the, I don't know,
+the renewal page and they have an error message,
+we know they're probably going to open the thing.
+And we know they're probably going to say something
+that's got, you know, a lot of the context already there.
+So we can work out the right things to say and do.
+I think that's pretty doable.
+It feels like you could do a lot around,
+yeah, you train a model on what the customer is seeing
+on that web page at that moment in time
+and use it to feed the answer and things like that.
+We already do a lot of that already.
+Like it's in customer context.
+So like, so knowing that, you know,
+knowing that it's general and he's on the premium plan
+and he's on the playlist page and there's an error
+on the screen, there's all useful information
+when it comes to, because I like, I think people,
+a lot of like the, you know, YC,
+I could build that in a weekend type hacker news crowd.
+I think one of the things they often,
+you know, they're thinking every customer support career
+begins with like, hi there, my name is Bla,
+my username is Bla, but actually like most support
+conversations begin with like, this is broken.
+You're like, what's broken?
+And like, so to solve that,
+you need like a phatic reply engine that's just like,
+hey, let's chat about what's going on here.
+But like we realized quickly,
+like people will kind of disengage.
+So any amount of extra context that when you say
+this is broken and if someone says this is broken
+and there's a big red error box on the screen,
+we're like, well, it's probably not
+taking that you're talking about.
+A lot of people just don't realize how deep
+you have to go to actually do a great job.
+Like we do, like say, if you install Fin today,
+you get like 65% resolution right after 30 days.
+Like that's shocking, but like,
+we have had to go really deep to actually get
+to those numbers and involves like all sorts of,
+every single smart thing you can think of
+we've had to do and then optimize
+and then find the right model for it and all that.
+But one of them is customer context
+and obviously answers a lot of things.
+Yes, well, part of the other smart things.
+Well, abstraction.
+So like, I guarantee you've got like no pages
+on your website that say stripes works really well
+for a dentistry office, right?
+You probably don't have that in your docs.
+A very naive rag bot will be basically like,
+well, doesn't say dentist and we're told not to hallucinate.
+So no, we don't do dentists, sorry.
+And like the abstraction is like, you know,
+in that case is, well, what is a dentist?
+It's a type of business to stripe work for businesses.
+Can dentists be internet businesses?
+Well, we say we're great for internet business.
+You know, so you're kind of working at what's the best,
+what's the best sort of risk tolerant way
+to make grounded inferences without going over the cliff.
+You know, that's one of like 27 different sort of
+components of Fin.
+Then you've got obviously your rag
+and then you've got like, you're like, hey,
+is this, is an escalation appropriate at this time?
+Like, have they threatened something or have they, you know,
+like you have every single type of problem.
+It kind of ends up, you have to walk through it all
+to actually recreate customer service.
+I think a lot of times people will compare it with like,
+how do I reset my password?
+Huh, it found it.
+And you're like, right, cool.
+That's like 0.4% of the scenarios.
+You deal with it when you're in customer service.
+Yeah.
+There's like, there's a pattern.
+Do you ever see a movie Armageddon where like,
+it's like Bruce Willis and Ben Affleck or whatever.
+But the gist of it is they train a load of,
+I think it's like oil drillers to become astronauts.
+And the comedy to joke at the time that Ben Affleck always says,
+he got drunk and he recorded the voiceover for the DVD.
+And he was like, I always said,
+why didn't we just train the astronauts to drill oil?
+It's surely not an easier problem.
+I think the thing that we're realizing
+with the AI movement is some version of
+what's gonna happen sooner?
+Will AI people learn how to do CS
+or will CS people learn how to do AI?
+Thankfully, as I said,
+we kind of started off with CS and AI in our DNA.
+I would say people, you mean companies in this case.
+Yeah, exactly.
+Open AI, you get better customer service,
+faster than Zendesk, it's better than AI.
+Exactly, I think we were lucky
+that we kind of had already backed boat horses
+somewhere along the way.
+One thing I find interesting about what you do is
+every company is thinking about AI right now.
+Every company had a board meeting in 20 minute three
+where the board is like,
+can we do a special deep dive on AI?
+Because it just feels like it's a lot happening
+and we need to be making sure we're on the leading edge
+of AI.
+And then every company was like,
+oh, we're actually doing a lot on AI.
+For example, we've seen great automation wins
+in customer service.
+And so it's kind of like the joke about the bike shed
+where it's the nuclear power plant
+where everyone has opinions on how to build a bike shed.
+Similarly, kind of everyone has opinions
+on how to do AI customer service.
+And so I'm curious how you sell, given this,
+I'm guessing a lot of your customers think,
+oh, we know how to do that.
+It's not that hard.
+We hooked it up to a model.
+We're actually very smart on this topic already.
+How you sell in that environment
+where everyone has opinions.
+Yeah, it does like,
+I've never seen the like build versus biting play out
+more often than we do today,
+especially with like certain,
+like a lot of customers are like,
+you know that meme on Reddit
+of I'm not like good or girls or guys,
+whatever, like there's a lot of that where it's like,
+oh, you would never possibly understand
+is B2C shopping company.
+And you're like, really?
+I've never heard of such a thing.
+Sometimes honestly, we just be like,
+hey, like, you know, Godspeed,
+you go and start building this PS.
+Here's a torture test.
+When you think you've got something good,
+run these hundred questions to us,
+let us know.
+Oftentimes that's where they're like,
+yeah, okay, we think we need to buy your product.
+But like, I think there is a,
+everyone has this idea of like,
+in a move to AI, what can we definitely do?
+And we can definitely answer questions like,
+how do I reset my password?
+And again, this is the back to the whole,
+that's such a small amount.
+What they can't do is actually have conversations
+and all that sort of stuff.
+We're like, what is your opinion on the president
+and how they're performing?
+And like a lot of times, well,
+you don't want to answer that question
+on behalf of your company.
+But I think a lot of times people,
+like they dip their toes.
+It's almost like they fired a tracer bullet.
+They're like, yep,
+this seems like we're making great progress.
+And every AI product has this problem
+where you make epic progress in the first two weeks
+and he hit this wall, this plateau.
+And then like two years later,
+you're telling people,
+oh, Apple intelligence is coming in 26 or whatever.
+So like in this case,
+a lot of people start the project,
+feel like they're definitely don't need to buy Fin.
+We just helped them understand the difference
+between a good bot and a bad bot.
+And then they come back and they buy Fin.
+So where is the Fin business these days?
+I'm curious both just how it's performing
+on revenue metrics.
+And then are you selling it to existing
+intercom customers?
+Are you selling it to new accounts?
+Just how does the whole thing work?
+We're about 6,000 customers and growing quickly.
+Fin does about a million resolutions a week.
+We're charging a dollar per resolution.
+So you can do that.
+So 50 million revenue, right?
+Give or take.
+When we launched initially,
+we sold to just to our own customer base.
+And then as we kind of progressed,
+we realized, hang on,
+moving help desk is a nightmare.
+Like you've probably done it once or twice,
+or if we've done it once or twice.
+It's a big job.
+It's a whole ordeal.
+And Fin is brilliant.
+So we're like,
+those people want this product but can't buy it.
+So we made the decision to launch
+like what we internally call Fin standalone
+or Fin for platform.
+So now you can use Fin on top of Zendesk
+or Hubspot or Salesforce or any of those as well.
+So basically Fin is available to everyone.
+And that's a relatively new muscle that we've been growing
+but it's actually,
+that's kind of where we see a lot of the future growth.
+And so do you is Fin like
+you can connect your iPod to Windows for,
+iTunes for Windows,
+but we hope that one day you buy a Mac
+and it's part of the whole digital hub strategy
+or we're actually now all in on Fin the engine
+and whatever customer service platform you use
+is actually not a topic of huge interest to us.
+This is such a core question
+that we kick back and forth quite a lot.
+This is the off-site debate
+that's currently being happening.
+Yeah, yeah, genuinely.
+At least it's certainly one of them.
+The way like we think about it first and foremost
+is like the future is AI.
+So like Fin just has to win.
+Kind of like at all costs, including our help desk.
+Weirdly, our customers are like,
+they turn Fin on or like down, this thing's good.
+Hey, Net are like 65% of our support volume.
+Maybe we don't need XYZ competitor.
+And maybe we can go all in on your help desk too.
+And we're like, okay, cool.
+That wasn't our game plan
+but we're happy to help, if you know what I mean.
+I think like the actual,
+the battleground we care most about
+genuinely has to be the AI agent.
+That's the one where like we care about most
+but it does produce a lot of like demand
+for the actual help desk product too.
+Oh my gosh.
+Oh dear.
+Okay, so you've actually played darts.
+Well, I've been around at the airport.
+I'm curious what your AI stack looks like
+where concretely, you know,
+what are the models or collection of models
+and prompts and everything that you are using
+in production?
+How do you handle model upgrades given this,
+you know, the behavior is changing so much
+underneath the hoods?
+How deep do you go
+in terms of developing the stack yourself?
+Then you can talk about the stack.
+First thing I'd say is obviously
+Fin isn't like one thing,
+it's like 27 different things or whatever, right?
+So every one of those is like,
+whether it's the summarizer
+or whether it's like the re-ranker
+or the retrieval engine or any of these
+or the direct dancer,
+which is where we actually go and formulate the answer.
+Every one of those is paired with the like the fastest,
+cheapest, lightest, most accurate LLM
+that can actually do the job reliably,
+like very, very high reliability.
+So like that means like there's no one particular model.
+So our primary partner will be Anthropoc for Clodsonnet.
+We've architected it such that
+like we can plug and play various different pieces.
+Yeah, whenever a new model comes out
+or honestly a new idea for a new architecture is
+and hey, like we recently launched the ability
+for Fin to do complex queries,
+which would be like say,
+go and issue to refund and update the name
+on the utility bill or something like that.
+And whenever like we have to change the architecture,
+we have this kind of like arduous torture test
+of like 1000s or at least 1000 CS scenarios
+where like we have like, here's the question,
+here's the context we're provided,
+here's what like the current Fin answer to this question is,
+here's the best available human answer that we know of.
+And then basically here's what this new version
+would offer us.
+And then so like whenever we say like a GPT-5 comes out
+or something like that, we're like, you know,
+the reason we're not just a lot of our competitors
+are kind of quickly, oh, we never run a GPT-5.
+And I'm like, oh, I'd take a beat on that one.
+You know, like you shouldn't assume everything's going
+to be great for your use case always, right?
+And so we ultimately, we have to run the truth.
+It's pretty like expensive test to work out
+where the edges are.
+If it's scoring higher resolution, right?
+We need to understand why,
+because it could be just that it's like trying more stuff,
+but that could also, the shadow side of that
+could be like access hallucinations or whatever.
+So whenever a model upgrade comes,
+we have to trigger this whole thing.
+But when we launched it, it was like 25% resolution.
+Today it's like 65.
+We've been increasing it roughly a percentage point
+a month, give or take.
+But like very little of that is actually
+because of the upgrades or the bumps from the models.
+And genuinely, I actually think,
+and I say this with a lot of respect
+and love for the CS craft,
+I actually think we've had enough intelligence
+for CS for quite a while.
+In fact, we published some material on this
+on our research blog, repost recently.
+Like when you look at, like, you know,
+people are saying things like, oh, like the latest,
+whatever, you know, Grock can compete
+on mathematical, like level seven or whatever.
+We're like, right.
+I think you can probably do most CS, you know?
+So it's often not a lack of intelligence
+is the reason why we're not 100%.
+It's because they're too distracted by any.
+Exactly.
+A lot of the wins come from like,
+honestly, better architecture,
+better tailored models or like changing into UI
+can change exactly how things work.
+And then sometimes you will get an occasional
+bump here and there from a model spot.
+It strikes me that a lot of the,
+how you include the amount,
+the account context and the amount
+of account context you include
+is a big part of the secret sauce.
+Perhaps, but they're like a kind of
+a various customer to customer.
+It really is one of these areas where like
+it's a thousand lead bullets.
+It's not like a single silver one.
+Like it's not.
+If you look at our Resolutionary Graph,
+there's no pop, give or take one or two little tweaks.
+Like it's mostly just, hey,
+we ground out true like, you know,
+optimizing this prompt and changing this hand over.
+We ground out another 0.7% like, you know,
+and you see the AI team celebrate that
+on the balcony on the Friday,
+being like, yeah, 0.7 up wherever.
+It's hard to work at exactly what bits.
+And then it's obviously multiplicative benefits.
+Like you might have a win over here
+to cost you something over here as well.
+Yeah.
+How deep down the stack will you go?
+Like what's Intercom's version of Apple Silicon?
+That I don't know for sure.
+I mean, like we're going to chase any edge we can get.
+Right now, I think custom models
+is definitely where we're going.
+And that's like a large investment from the AI group,
+which is like the most contested resource that we have.
+Every bit of work they're doing
+is finding a new edge in resolution rate
+or resolution quality.
+So right now it's paying it pretty well.
+So I think we're going to kind of
+place all our chips there until something changes.
+What does selling AI look like?
+It's quite difficult.
+It's difficult in marketing and selling.
+Because I think like...
+Because it's so crowded and noisy?
+Well, it's that, but it's also...
+Like it used to be the case
+and for sure Intercom used to be one of these companies
+where we are product looked the nicest.
+So alls we had to do was the age-old,
+you know, blah, blah, blah reinvented
+and in a big sexy screenshot.
+And you can still get away with that in certain domains.
+Like linear can get away with that
+because their product is the sexiest.
+I think with AI, everyone's chatbots look the same.
+Everyone's kind of copied our messenger.
+Everyone's kind of like roughly like converging
+on the certain UI paradigm.
+And so you have to ask, like, then when we say like,
+you know, we are the best AI agent,
+like what do you think all the rest of them are saying?
+We're the worst?
+Like no, of course.
+So they're all saying this.
+And then everyone has the same screenshots
+because it's like, look what we do inside a chat window.
+So you're like, all right,
+how do you actually outmarket
+and then how do you outsell?
+And one of the reasons we launched
+like the Fing guarantee this idea
+that we'll like, we'll pay you a million dollars
+if you find something that performs this stuff.
+Cause like we're trying to stress to the market
+this idea that like we are actually
+believing our product to a ludicrous degree
+such that you should engage us
+on any sort of bake off you're doing.
+But I think from a marketing perspective,
+it's really hard to stand out.
+So all you really do is like rely on,
+on like backing up your claims as hard as you can.
+And obviously customer testimonials.
+Selling is harder.
+Cause I think again, in the olden days,
+like selling SaaS in the olden days,
+meaning like pre 2022,
+it was kind of like, our UI is nice.
+There's as ugly.
+Here's a feature, great checkbox.
+We've got 24 checks.
+They've got 17, D7 matter.
+We're in, you know, like,
+and that was like that.
+Like obviously I'm skipping over.
+So steps of course sales and it will kill me.
+But you get the basic idea, right?
+And I think now selling is closer
+to selling like infrastructure in a sense.
+It's more like,
+our cloud is better than their cloud.
+And our performance criteria are better.
+It's like at times it might feel like, you know,
+Intel AMD or at times it's like, you know,
+it's our response times versus dares or whatever.
+But like you're ultimately coming into it
+like with a bottle of metrics
+and sort of like our resolution rate
+and our CSAT versus dares.
+But then people say, well, why?
+And then you have to then explain
+what's actually happening beneath the surface a little bit
+so that people can actually get a bit of conviction
+in order to just like trust us
+or like please just go and try our product.
+Cause it's not that easy to try a thing.
+You have to still have to like turn a lot of keys
+and open a lot of APIs and stuff.
+So like the challenge genuinely becomes like,
+how do you have a sales team
+that's actually able to like speak
+with a good degree of familiarity about like AI?
+It's funny you mentioned this.
+We have this specific problem at Stripe
+which is invariably when people switch to Stripe
+from a legacy processor,
+they see a significant revenue uplift.
+And you think like businesses are in the business
+of finding ways to get more revenue.
+You think they'd be really interested in this.
+And we have this thing that sounds shockingly good
+which is if you just move over to Stripe
+you start immediately getting more revenue.
+And it basically comes from two places.
+One is conversion on the actual point of payment
+that if your mobile app or if your web flow
+is kind of janky or doesn't offer
+a customer's preferred payment method
+or something they will abandon.
+And if you just look at the abandonment rates
+if you're seeing a kind of only 85% conversion rate
+on that form, then obviously getting it up to 90%
+that's a huge deal.
+And those would be very high numbers.
+Most businesses would not see anything close to it.
+A 90% conversion rate on that form.
+And so there's huge improvement possible there
+to make the customer kind of checkout experience
+as smooth as possible.
+And obviously things like link
+then where you're not asking people
+to reenter the payment details
+that delivers a big uplift.
+The second one is even crazier is
+after people enter their credit card details
+frequently charges are denied kind of spuriously.
+And so your bank thinks that it's fraudulent
+because they haven't heard of this merchant or whatever
+and so they'll deny it or they'll think it's fraud
+or whatever like that.
+And we through many, many years of optimization
+have gotten good at ensuring that
+if it is a valid transaction that that is not denied.
+So what all that adds up to is that
+we can make the claim and we've seen it play out again
+and again we just have Hertz switch
+for all their e-commerce payments to Stripe
+that when people move to Stripe
+they see a significant uplift in revenue.
+That's surprisingly hard to sell
+because everyone is out there saying
+we are the thing that gives you more revenue.
+And we've had the exact same thing
+where despite you can have all the numbers
+and all the case studies in the world
+it's just, it's hard to sell
+because it's undifferentiated, it's a message.
+I remember even when we switched back to Stripe
+either you or Patrick was saying like
+oh well don't forget to do link
+and I was like really, I was like
+is this really a thing that like, you know
+people have walked with some businesses
+forgotten it's credit card or something like that
+and you're gonna be able to renew it.
+Right, it feels I like that.
+Yeah, it just feels implausible
+but like at the same time the data
+is not like not really debatable.
+I think people like to be able to explain it
+to themselves and like not like, you know
+I think he already wouldn't,
+I was talking to a guy who runs procurement
+and he was saying like you have to understand
+I'm just getting bullshitted to all day.
+You know, it's just all day relentless
+absolute nonsense in my face.
+So like if you think that like you're like
+ooh 65% thing is gonna stick, it's not.
+It's just like I take it, I divide it by 10 at this stage.
+You know, and you tell me
+are you gonna save me two million
+in CS salaries or whatever.
+I'm like yeah maybe in three years time
+we'll see 200 grand, you know.
+That's the kind of the default posture
+for a lot of these people.
+I think it is just, it's like they've developed
+quite an adverse reaction to like marketing.
+People do not have enough empathy
+for the procurement person
+who just has to endure nonstop nonsense.
+Absolute garbage.
+Absolutely, that's funny.
+I mean this kind of gets to the topic
+that you and I have discussed a lot
+which is product marketing.
+How do you effectively product market
+in a world of everyone making claims?
+Like one is the guarantee
+that your guys made a dollar guarantee.
+Has that worked?
+It's certainly, it's worked from a point of view of like
+I don't know if you know how many people
+are in the program right now
+but I could say that, well how's it worked is like
+it's landed the message of we stand behind the problem.
+Totally, being able to say like
+here is the reason why you can buy,
+you can buy from us.
+I think that's a strong message.
+The other, I mean obviously like
+being able to point to real customers
+or real results, sort of like and you can say
+go talk to Natalie at Newly
+or whatever company you want.
+Go talk to that person and ask them
+because that's their name, that's their job title.
+They work there.
+They're saying that with 6,000 customers
+it gets more believable as the numbers kind of tick up.
+But I guess either you can make crazy guarantee claims,
+you can just point to a lot of successful customers.
+For us, it might be different depending on your domain
+but for us it's not like we can show you,
+we can show you like hey here's a beautiful
+backend product and here's fancy reporting and all that.
+But that doesn't speak to the
+the courting someone's buying when they're buying AI off you
+is to some degree a replacement of work that they had to do
+and the two things they care about are
+how much work are you gonna do for me
+and how well are you gonna do that work.
+And you basically need to product market
+both of those things.
+And it's very easy to say we're gonna do all the work
+and we're doing really well.
+So you have to actually really help them understand
+how to appraise this scenario.
+Like sometimes we put time into actually helping people
+helping people identify when they're being lied to
+in a sense so we will say like hey try this type of question
+or ask them about this.
+Help you're almost gonna teach them to be
+much more conscientious buyers.
+Cause we know the more informed buyer like that suits us.
+It doesn't suit people who are just kind of like
+jazz-handsing their way to an AI product.
+But like yeah, it's a difficult one.
+It ultimately like five years ago would have been like
+well the trick John is gifts.
+Have you ever considered using movies on your homepage?
+That's really engaging.
+None of that works anymore.
+Cause I just think like what you're selling is basically
+it's like an iceberg.
+This little bit of like upfront UI of like here's what
+actually happens for your customers.
+Doesn't that look nice?
+Yeah.
+And you're selling this like gargantuan pile of work
+beneath the surface studies like,
+hey all of the human toil goes away if you make the switch.
+Yeah, I can see that.
+What are your other pet peeves when it comes to
+product marketing?
+Actually, do you want another pint?
+Yeah, sure, sure, sure.
+See again, this one, did I not let it settle
+for long enough and then you have the small head?
+Like is the settling-
+I think everyone's gonna work out perfectly.
+Is the settling time load bearing?
+Okay, so what are your pet peeves
+when it comes to product marketing?
+I think the thing that still kills me
+and it's still very common is marketers that love marketing.
+So like, rather than actually saying anything
+useful or specific, you'll get like,
+forget everything you know about email.
+You're like, okay, what am I buying?
+Or like, you know, transformation reinvented.
+You're like, cool.
+Sounds like I'm gonna reinvent some transformers.
+Like what's actually happening here?
+I think there is a general still type of thing
+where my screensaver on my laptop is like
+literally a typewriter where someone said,
+what are you actually trying to say?
+I keep that there as a reminder of like,
+just nine times out of 10,
+the best marketing comes from just writing
+the thing you want to say.
+Cause like, do you ever get into a Google document,
+like our goal is that by reading this document,
+the reader will know to follow and I'm like, cool.
+Can we just say that?
+And say, why is the 2,000 more words here?
+So like, I think, I guess like speaking in a way
+that sounds like great to marketers
+is like probably the thing that kills me most
+because they don't marketers, especially in the AI era,
+they don't really necessarily understand the depth
+of what's actually happening with the AI or whatever.
+There's a funny stat that I'll go be used to quote,
+which would say something like,
+of all the winners of the can awards every year,
+something like two thirds of the model used
+or contract that year,
+because the thing they won the award for
+was not actually effective in market at all.
+And I think there's such a repetitive pattern there.
+You like, where a lot of people like,
+they will look at say a stripe or a linear
+and they'll be like, all right, we should just do that.
+And you don't really like,
+I think that people don't get is like,
+everything means something.
+And this is like where our CEO is like,
+every single decision we pick here,
+what photo, what icon, what typeface, whatever,
+it all sends a message.
+Are we conventional or not?
+Are we futuristic or not?
+And I think whenever I see folks just like copy paste
+somebody else's brand in,
+even in those sort of like,
+oh, we'll change your homework along the way.
+I think what they're really doing is saying,
+we don't really understand what we're doing here.
+And that's why a classic of this is,
+whenever an incubator spits it
+and you're about to start up,
+and they all basically have right-hand side screenshot,
+left-hand side tree bullets, sign up button or whatever.
+You're kind of like, okay, cool,
+but have you actually taught
+about what you're trying to say to the world?
+There's also a thing for startups
+where they probably shouldn't look at
+what established companies are doing
+because like Stripe, for so long,
+we clung to making sure that we had code in the homepage
+and people are like,
+if you want to accept credit card payments
+through your website, we're the place to come.
+And at a certain point,
+most of the relevant people come to your page
+actually know that you could do that
+and you can experiment a little bit more.
+Salesforce doesn't have to hit CRM so hard
+in the homepage,
+they're 20 years,
+they've earned the right to talk about Einstein a bit.
+Oftentimes, like a startup has a great idea
+for a great product and they pitch it.
+And then like six months later,
+they work on some new feature
+and in their heads,
+the new feature is the big thing
+that they're so impressed with.
+Not realizing that 99.49s of the world
+have not even heard about the original thing yet.
+But there they go destroying their original pitch
+by being like, oh no, we've got blah, blah.
+And I'm like, dude,
+no one's even heard of the original thing yet.
+And you're pitching some nuanced take
+on some extra feature.
+Yeah, yeah, yeah.
+Speaking of David Ogilvy,
+you've read on advertising, I assume.
+What is this?
+It was just like,
+that's such a beautiful book
+where all the marketing copies is so good,
+like the roles Roy said of, you know,
+the only sound deal here at 60 miles an hour
+is the ticking of the clock.
+But somehow that's, yeah,
+should be mandatory reading for all product marketers.
+Absolutely.
+What kind of person succeeds in product at Intercom?
+When we set up Intercom originally,
+like we were kind of like building one thing.
+Once we forked out to building many different areas
+like sales, marketing and support,
+I think we gave a lot of freedom to product leaders
+and sort of say, you own the sales product
+or the marketing product.
+And I think the folks who succeed there
+are like, they have to have like decent taste.
+And I don't mean that in some lofty abstract way,
+but I mean they have to like,
+you know, use good software, identify good software,
+ultimately know how to like,
+pick one out of the bunch in a sense, right?
+Like a very common interview question I ask people is like,
+what apps are on your phone?
+What's your favorite app?
+And the amount of time someone's like,
+oh, you know, I never really thought about that.
+And I'm like, oh, so like, like what's your favorite song?
+Like, you know, like I'm sure you care about something.
+Yeah, yeah, yeah.
+Certainly if you're interviewing musicians,
+you'd like to think that,
+but they also probably have a favorite app too.
+So I think like taste is a kind of prerequisite now.
+And then I just think like the conference
+to pick a direction.
+And then the, you know, we say like at intercom,
+we often say shipping is an act of like,
+like confidence and humility.
+And what that means is like, you know,
+you have to be confident to put it alive
+and then humble enough to take the slap in the face
+when you got it wrong totally and react to that slap.
+Don't like kind of be like, no, it's not me.
+It's the customers don't get it, right?
+So I think like, we need like high taste
+and then like confidence
+and then like ultimately understanding
+that like in the market and recent sense,
+like a product is a conversation at the market.
+Your launch is like your opening bit
+and then you have to basically adapt
+and react to what gets thrown back at you,
+which might drag you in different directions.
+And then you need to have the, again,
+the confidence to prune certain things.
+And like, no, we're not building an attribution engine.
+Yes, we'll take on some feedback on the CRM side.
+But I think like the, you know,
+a lot of product managers who don't work out for us
+are like a lot more spreadsheety.
+And like, you know, they won't take a bet.
+They won't take a gamble.
+They won't take us down.
+They'll just be like forever mired in like,
+well, the data suggests
+and they're just trying to hedge their bets for us.
+It's just not the sort of company we are.
+I think we kind of believe
+in having an opinion about a space.
+Well, and the second part of what you're saying,
+if I'm hearing you right,
+is the good product managers actually can listen
+to the market.
+They have to be able to, yeah.
+And hear what?
+Yeah.
+Like I think about this a lot
+in the context of tech companies
+where Stripe's first operating principle
+is users first,
+we think that actually paying attention
+to what users tell us,
+tell us in every sense,
+you know, if I revealed preferences in the data,
+if I just like when we actually have conversations
+with them, we start every week
+with Monday morning meeting.
+The first thing we do is we actually host,
+you know, at the end of the day,
+we host a customer to tell us
+and give us a report card.
+And you know, it's not an A, you know,
+it's seldom an A.
+You know, they always have things they want to fix.
+And they're very pragmatic things
+that they want us to improve.
+There's no overcomplicating.
+And when we do our weekly all-hands fireside,
+we also bring customers to that.
+But I feel like there's a problem
+of overcomplexifying things
+and under talking to users in Silicon Valley
+where, yeah, it's a bit too much celebration
+of the individual kind of product vision
+or a bit too much, as you say,
+trying to data your way out of us.
+And if you're a product manager
+and you're not talking to many customers each week,
+something is probably wrong.
+I bring that up because the whole original Intercom product
+was a way to talk to customers.
+Like this is kind of your guys.
+Absolutely.
+But would you agree that diagnosis
+that a lot of tech products would be better
+if people simply talked to customers more?
+Yeah.
+I mean, one of the ideas that still can be very early on
+in 2009, 2010, I'm going just like a deep coat or whatever,
+but there's a guy called Jared Spoole,
+who's like a famous UX guy.
+And I was on this tread of interaction design association
+and somebody wrote this really long,
+like, hey, I've shipped X and I've shipped Y
+and I can't work this out.
+And even though I have any speculation
+as to why people aren't doing this thing,
+even though I make it really obvious on the screen,
+and he just replied on,
+he's like, have you tried asking them?
+And I remember at the time, I was like, right on.
+It felt like a revolutionary thing to say,
+but I find like, I shared this piece awhile ago,
+which was like the questions I asked
+in every single product review,
+kind of like so you can kind of either get ready
+to meet me or just ideally other people can replicate.
+But question one is basically,
+what did our users say about this when you showed it to them?
+And everyone has to have an answer to that question
+when we went like, I'm like, hey, well, what did the user say?
+And like, I need to like understand that
+because if you're not actually asking your users,
+what are you doing?
+Like, you know, the only validation we have is the market.
+I do think in Devalid is,
+and like, well, I'd say Devalid,
+but like that's just basically means
+in the tech industry, right?
+There is this epidemic of like hiding behind your data
+and like, what can we instrument
+and how many different mix panel dashboards
+can prove to me that this product should be working,
+or the fact that it isn't or whatever.
+I think there's something kind of just fundamentally broken there.
+And in interesting use, you said extra value is like
+users first.
+I'm just curious, is that deliberately
+do work in every word you guys say it's deliberate,
+but that's deliberately users as in,
+do you mean like pointy clicky users
+or do you mean customers or do you mean prospects
+or do you mean like?
+Yeah, we deliberately chose users
+because we just meant that people using the product
+as opposed to customers, you know,
+if there's a buyer versus user.
+Yeah, that's what I was gonna ask.
+You wanna focus on the people
+who are actually using the product.
+The people who are, you know,
+managing fraud within the business
+or actually responsible for increasing conversion
+or something like that.
+So that was why we chose that word.
+Yeah, no, it makes sense.
+Cause I just, I find oftentimes,
+and if you want to perfect a product,
+you talk to the users.
+If you wanna expand your market,
+you talk to like prospective buyers.
+But whenever I like, even in my own portfolio,
+when I talk like, what are you actually doing?
+Like the businesses that like are,
+how would you say like prematurely
+talking to more prospects
+when they have a load of unhappy users
+are guaranteed this kind of miles wide
+inches deep, like messy product
+that doesn't actually satisfy anyone.
+But like they'll get there
+kind of like one promise at a time.
+Oh, we'll build that for Johnny and Johnny will sign
+and we build this for Johnny and Johnny will sign.
+And like at no point
+that they have one happy customer.
+What they have is like a marauding churn bomb
+of a user base.
+It's funny you say that.
+It feels like many tech companies
+over rotate on sales feedback,
+which will by definition be from the marginal user.
+And they're marginal in two senses.
+So you've all your existing users,
+you know that you're dancing with the girl
+that bring you over here.
+And then you have this future potential user
+who firstly, by virtue of the fact
+they're not already using you.
+Maybe they're slightly outside your wheelhouse
+where like the use case isn't perfect
+or something like that.
+So maybe they're not quite as good a fit
+as your existing customers.
+And then also by virtue of the fact
+that they have a whole existing way of doing things
+when they migrate over to your product
+they'll do so in a bit worse shape of integration
+where maybe they'll only use one of the four features
+or not everyone in the org will be brought in
+versus the people who grew up on your product.
+And so maybe just restating what you're saying
+I'm always struck by people are way too focused
+on we tried to win this big new shiny enterprise account
+and they didn't have feature X
+and so therefore we're gonna develop feature X
+as opposed to you've all these users
+who grew up in your product and really like it
+but they wish you had fixed A, B and C
+and just the nature of the fact that sales
+gets more airtime than account management essentially
+means people really miss prioritized where they spend.
+Yeah, and then people take an aura for granted
+and think that like that net new revenue is hard
+or I like then I think one of the things
+that we see a lot of is like in terms like you know
+working out for your current customers
+like we use the phrase permission to innovate
+and permission to expand an intercom
+which is basically like you permission to innovate
+when your product's pretty good.
+Like as in yeah okay let's work on V-Tree
+but like is V-Tree in good condition?
+Like or you know and then permission to expand
+is like V-Tree is actually that exciting
+everyone's happy with V-Tree.
+Now I think we can try to do something new
+for customers like expand our share of wallet or whatever
+but I think a lot of people try to solve revenue growth
+with like aimless product expansion
+to just try and increase the share of wallet
+for the people who are stuck with you.
+And then they convince themselves they got PMF
+or like you know that they have like
+some sort of a good product
+because they're kind of like full of grass
+that will force feeding new features
+down to tropes of their trapped users.
+And they're like you know we're doing great
+but they don't realize what they're actually doing
+is making their current product so messy
+that like they're destroying the hope of future revenue
+because anyway like yeah you could force your current
+customers into whatever upsells you have or whatever
+but your product marketing along the way
+is getting really difficult
+because all these features don't make sense
+and they're just kind of like you tried to do this
+like land and expand thing
+but you're actually just expanding
+and there's no landing happening in the new product
+and then you end up trying to twist yourselves in knots
+and a lot of startups like you know
+Jason M. can use this thing out
+like from zero to one's impossible
+from one to 10 is hard
+and from 10 to 100 is inevitable.
+Like I think a lot of people
+I don't think that's proven out to be true
+as much as it was back when he said it.
+I think a lot of people get stuck
+in some sort of glue around
+somewhere around a 10 million mark
+where they don't know how to like
+get the next 10,000 logos.
+So they just try and milk the revenue
+out of the existing customers.
+True like just forced product adoption of new stuff
+like you see like here's your co-pilot
+and I didn't want it.
+But here you go.
+I got that thing.
+Dez is describing here
+how they've transformed Intercom
+from a SaaS product to a frontier AI business.
+And to do so, they had to pivot
+not just the product
+but the monetization model as well.
+Because inference costs are so significant
+AI powered companies tend to charge based on usage
+rather than just allowing for unlimited plans.
+It gets complicated
+and really multi-dimensional very quickly.
+Now, fortunately complicated and multi-dimensional
+is what Stripe billing specializes in.
+Our usage-based billing engine
+can ingest up to 100,000 events a second,
+100,000 events a second.
+So AI companies can monetize products
+based on real-time customer usage.
+We're powering consumption billing
+for companies like Figma, Cognition
+and tons of other leading AI applications.
+Our usage-based billing platform
+has grown 145% so far this year.
+So whether you're changing your business model
+like Intercom or starting a new product from scratch
+your business strategy should dictate the billing system
+and not the other way around.
+For usage-based billing, check out Stripe Billing.
+As you think about the prototypical
+$10 million revenue B2B company,
+yeah, what are the common mistakes you see
+and what do you think the actual path
+that more of them should follow is?
+I mean, the biggest problem mistake is
+is like not aligning your fundraising with your time.
+I think a lot of folks
+like we got a little bit over convinced
+during the era of cloud
+that every business had a right
+to be like a unicorn.
+And so there's a lot of businesses
+whose idea was like totally fine,
+but actually they should have gone
+and base camped it more so than they did
+because they've raised on the assumption
+that there's an easy path to like hundreds of millions.
+There should be more small, profitable,
+$30 million revenue companies.
+Well, yeah, exactly.
+And I think a lot of these businesses would be great
+if only they didn't raise 20 until their investors
+that they're gonna like easily be worth a billion
+or whatever.
+I think there's a genuine mismatch there
+where I think people have like overstated
+like how big this idea could get.
+You know, I was like, hey, I know what we all do
+is like time tracking for dentists in Delaware,
+but like, believe me,
+we're gonna be a billion dollar company.
+And you're like, okay, well,
+one of your restrictions is gonna have to break here.
+So that's one problem,
+which is more like kind of business model
+like an venture ambition.
+The other stuff I see is like,
+it is kind of like not focusing enough
+on the senior, the majority of your customers value.
+Like it's easy to say in the,
+the best business in the world is like one line of code
+that all users execute
+and you sell it to all users, right?
+They're like, you know, the sweet spot.
+It's hard to do it in a differentiated ways
+because you know, obviously people learn that line of code
+and that's where you,
+I think a lot of these like horizontal products,
+they say something like a loom or whatever,
+they're like a brilliant,
+they're a piece in everyone's workflow,
+but they're no one's like end to end workflow.
+I think they can do well too,
+but I think the challenge is like
+when people rather than nailing a specific small thing,
+come on to the earlier point,
+like rather than like saying, hey,
+let's get really good at X before we go beyond
+when they kind of prematurely expand,
+I think they forego all opportunity
+of like kind of being the best.
+And if they picked a really important area first,
+then they don't say that what they're saying is,
+it's okay to not be the best at the most important thing
+we do.
+And I remember like, I remember I think it was 2012,
+I was in your office on, you know, in Fydei.
+And I remember at the time it wasn't,
+it wasn't obvious to me that you weren't going to expand
+and do some sort of like peer-to-peer transfers
+and people paypal.
+And I remember like you guys at the distance
+would be like, absolutely not.
+We care about helping businesses charge.
+I'm like, there's a real harsh discipline you need to have
+to like just basically say no to all
+of the surrounding opportunities.
+I think a lot of people,
+that discipline is the first thing to go
+when you hear about competitors,
+you're gonna hear somebody else encroaching on your space,
+you're gonna have this really weird broad view
+of all the things you do.
+Like I know we just do like whatever it is,
+gifts and screenshots,
+but actually when you think about it,
+we're a global creativity platform
+and I dare this premature view of themselves
+as being massive and then they feel,
+then they go and raise off that
+and they need to expand into that.
+But I think like at the core of every great business,
+every great SaaS business,
+but in the future AI business,
+it's something that they're just truly world-class.
+And it's like, it's not some sort of 80, 20 trade-off.
+They've just basically said,
+we'll be better than anyone at this, right?
+Like you take like linear,
+it's basically like they have literally the most,
+world's most efficient UI for like,
+for product management
+and they all observe project management
+and they've just gone really deep into like
+all of the surrounding adjacencies
+that they would need to actually do that job.
+We all figure it's just an amazing
+creative collaboration machine.
+Like everyone who has done really well,
+they've picked one thing and just gone really hard,
+really deep, really far on it.
+They haven't like prematurely blown up
+and gone in seven different directions.
+And I also think there's a weird celebration
+in the Valley of Act 2.
+Like the Valley is obsessed with finding second acts
+that are totally unrelated
+to the first business.
+Like the number of people who bring up like,
+oh, and we like invent like an AWS.
+It's like, okay, you need to use a non-cliché example
+if you're going to make that argument.
+And the flip side is, you know,
+you're mentioning Figma, which is a great example
+where that market proved to be way bigger
+than people might originally have thought.
+My favorite example of this is Nvidia
+where they are the world's largest companies
+and they started in the 1990s making GPUs.
+And if you're an investment banker
+trying to, you know, make a case
+for how Nvidia could be a really big company,
+maybe you'd say, oh, well, and we can expand
+into maybe we'll actually, you know,
+make our own gaming rigs
+or you know, because it was all gaming at the time originally,
+you know, maybe we'll make gaming consoles
+or, you know, we'll expand to some larger markets.
+Where it's actually how transpired is
+it turns out the GPU market is quite a lot bigger
+than people thought.
+And being, you know, the best at GPUs
+is a really valuable prize.
+And you can't rush it, you know,
+it'll emerge at its, but yeah.
+And they could have killed themselves
+if they had gone in every other direction, right?
+And they would have lost their edge in some sense.
+Thing was a great example for me of like permission
+to expand in that, like, they literally nailed
+to a point of like no credible competition,
+this idea of like just, you know,
+the Photoshop killer, basically, let's just say.
+And now they can talk about like slides
+and text to app builders
+and like every other dimension they wanna go.
+And everyone's like, yeah, that's great
+because you guys make great software.
+I think you have to first be known for like,
+I'm trying to think like,
+if Stripe launched a payroll product,
+it would carry the brand of Stripe
+in the sense of like being, well,
+it's probably really good, really reliable, really fast.
+It probably has really nice APIs,
+probably works really well, it worked out well.
+You can almost impute like all the ideas
+that would be carried into it.
+And I just think like, you have to get to that point
+before you have permission to make that,
+like obviously it's a lot easier
+with some stablecoin or whatever,
+but like what kills me is when I'm like,
+you know, I don't even wanna name a weak SaaS company
+but like pick your favorite like, you know,
+mediocre SaaS company and anything.
+Like, is there any direction you would allow them
+to expand in your head?
+No, like it's the short answer.
+Yeah, yeah, that's interesting.
+Who are you really excited to adopt new products for
+versus who are you steering clear of the new products?
+Like if Linear launched a,
+I don't know, let's just say a source control to them.
+Like, yeah, it's probably gonna be really, really good.
+Yeah.
+And like, Seth Godin has this hilarious point
+where he talks about like the value of brand
+once it's like weaponized,
+and he describes like Nike and Hyatt hotels.
+He says, if Nike opened a hotel,
+you can close your eyes and see it.
+You know exactly what the corridors are gonna look like,
+you know, the vibe of the whole place.
+You know, everything.
+It's gonna be, if Hyatt launched a sneaker,
+you're like, what?
+And it's just, that's the difference.
+Because Hyatt has a logo and Nike has a brand.
+And that's the difference, you know.
+A version of this actually maybe quite literally is
+I don't know, so Equinox launched a hotel.
+Yeah.
+And a pretty good idea because the design center
+they had for the hotel is,
+you just want to be able to get a good night's sleep.
+And it's funny how that's like a differentiated
+product in the hotel space.
+Like don't give me any of that other shy.
+I just want to go to my room and not have like
+super loud noise outside the window
+or like your light coming into the room.
+You just want to be able to get some sleep.
+Precisely.
+Yeah.
+I thought that was funny.
+And you're mentioning kind of Stripes expansions
+and so this may be a good segue
+into your pricing model change.
+You guys are poster child for the move
+from perceived SaaS pricing,
+the old way of doing things to usage-based pricing.
+Maybe you can describe a little bit about that
+and then how you implement it
+and what you're doing with Stripe.
+Yeah, sure.
+Our pricing journey is long and complex
+and a lot of your listeners or viewers will know.
+Indicom pricing is a charged topic.
+Yeah, yeah, not anymore.
+You know, we've turned a corner.
+Let me just back up a bit.
+So like when we had like two diverse product strategy
+we were trying to do sales software,
+marketing software, support software.
+How sales software is typically sale based
+and leads created and marketing was charged
+by like how many contacted people you want to send
+and support was sold by seats.
+So we had this extremely, just to say detailed
+but like unnecessarily complex like pricing set up
+and we kind of, we lied to ourselves and said,
+don't worry because there's always me human
+to help people navigate this
+because you're never gonna have to self-serve this.
+But like ultimately people are just like
+I have been refreshing this for like seven minutes
+and I kind of understand a word of it.
+And that was just one of the few things we got wrong
+in our kind of first move up market.
+When I own return, one of the decisions he made
+was just like, hey, we need to like,
+you know, store their pricing.
+And we handed back like truly handed back
+I think about 50 million of revenue.
+I think it's-
+Was that controversial?
+Like with the board, with investors?
+Like we had support for it.
+I think it was like people don't really under estimate,
+people massively underestimate what it means
+to have a really happy customer base.
+It's cause word of mouth doesn't have like
+an attribution or a UTM code if you know what I mean.
+So like they don't understand here to think about
+happy customers.
+So making the decision to basically like,
+you know, kind of standardize on an easy
+to understand pricing that's like fair,
+transparent, predictable, et cetera.
+That was the first decision that we made.
+This is before AI, right?
+And that was like, I'm most returning to Stripe
+was a large part of that.
+In fact, as a small segue like,
+I think like a couple of years prior,
+I had said to you or to Patrick like,
+hey, you guys should actually build
+as part of your product offering,
+a pricing page creator.
+I think at the time though,
+I probably got one of those like,
+thumbs up replies or something like that.
+And I was like, yeah, whatever it is.
+But I think-
+It's on the list.
+I think you've done it since though.
+We have, yeah, yeah, yeah.
+Well, like my thinking at the time was basically
+some version of this, right?
+You need to not let your customers go wild for pricing, right?
+You need to like actually put some sort of guardrails
+onto how they think about pricing.
+Otherwise they're going to go and invent stuff
+that you guys don't support.
+And then you're going to move all your business logic-
+Pricing your writing checks.
+Yes, yeah, exactly.
+And once like, I remember like sitting at a Stripe,
+many all hands would ever explain like that.
+Like, hey, none of our business logic runs through Stripe.
+But I think either you or Patrick was saying
+like some version of like, that's not a good thing.
+I think, you know, generally speaking,
+my advice to any software company is like,
+don't afford yourself too many degrees of freedom here
+because you'll actually cripple yourselves
+in a quagmire of complexity that you'll take you many years
+and ultimately like many tens of millions of dollars
+to get out of.
+It's a weird failure mode
+that every single company falls into,
+which is you start signing deals
+that have some super creative pricing structure
+and the customer negotiates ABCD&E.
+And it's like, it is built in Microsoft Word,
+but it is actually, it's just not built practically
+in codes because it just exists for this one customer.
+And it may not even be possible to build in code.
+Like sometimes the, you know, it's kind of ambiguous
+or it's like, and if in the subsequent year
+this happens, then we go back to the prior year
+and we do an adjustment.
+It's like a time travel component to the whole thing.
+And then they obviously have this, again,
+we see all customers running into it,
+these kind of manual billing issues
+where there is a guy who has to deal
+with all these like contracts
+that were agreed during the sales process.
+And so as you're saying,
+an opinionated billing engine is actually pretty important,
+assuming you believe that billing should be automated.
+If you're happy, like manually getting out the calculator
+for every single customer month, then that's fine.
+Not having a large deal desk function
+and doing all the work behind the scenes.
+Yeah, so, sorry, that was like the first piece
+of pricing and then the second piece
+was obviously when we launched Fint
+and it was like, hey, how do we charge for this?
+Because we're replacing seats.
+And like, at the time, it hasn't proved that
+it's just very fully, but like at the time Fint
+looked like it was gonna be pretty cannibalistic
+to intercom because it was like, hey,
+if we're automating at the time
+what we thought was like 25% of your revenue,
+we assume that means like 25% less seats in the future
+or at the very least what it would likely mean
+is the growth rate or the NRO
+or if the seats model will be affected
+by the fact that Fint's in all the work.
+And now at 65% you'd expect it to be even further true.
+So it was like, hey, how do we charge
+in a way that makes sense?
+And then also like, how do we be aggressive?
+Like as in we really wanted to like put a mark
+on the market and that sort of says,
+like, you know, we're like very AI forward.
+I think what our own and then Dara came up with was just like,
+hey, like, let's just charge per literal resolution.
+Like every time we do work, we charge,
+every time we don't, we don't.
+And this is at a time when like AI was like,
+you know, margin negative and all that sort of stuff.
+We're still working out how the whole world plays out.
+Today, we're, you know, we're really happy
+with our margins, but at the time it was like,
+hey, this is good.
+It was a bet.
+Yes, it was definitely a bet.
+We made the decision and I think the market
+responded really well because I think it was very clear
+that like the state, the single statement of like,
+we only get paid when we do work.
+We don't get paid when we don't do work.
+It's from the same vein as the guarantee,
+which is just like, that's how you know
+that we believe in our product
+and that's how you know our product works.
+Yeah.
+It's been copied a million times since,
+but I think like the actual decisions that we made
+in the run up there were really, really important
+from a point of view of backing up our claims.
+And then obviously for a lot of our competitors,
+they were like, you know, we don't really
+have a great way to respond to that
+because either our product doesn't work
+or we're kind of hooked on these
+really expensive resolutions.
+And we were totally throwing cat amongst the pigeons there,
+which has been like really well received by the market
+and our customers generally do love it.
+It is funny though.
+Like you still get people being like,
+no, in a sense, ridiculously expensive.
+And then, you know, you're like, why do you think this?
+And the answer is because some version of
+we don't know how to calculate cogs.
+Yeah, yeah, yeah.
+Yeah, yeah.
+How much are the humans costing you?
+Yeah, exactly.
+How much is their office costing you
+and all the other stuff you own?
+Yeah, yeah, yeah.
+But people like certainty.
+How do you get them okay with the variable product?
+You know, you can obviously,
+you can contract out whatever you want, right?
+Like, but what we offered people is like,
+hey, like, you know, most of the time
+people have like at least one or two years
+look back on like what, you know,
+like we have customers who spike for taxis
+and our customers who spike for Christmas or whatever.
+And we can basically say like, hey,
+let's like, let's contract your base rate
+and let's talk about over just for the months you needed.
+And that's like, that totally works.
+What we're basically saying is like, yes,
+you don't have predictability in the sense
+of it not being fixed,
+but you have like, you can model it
+based on what's happened in your history.
+And it's only really like brand new startups
+that don't have a clue what's going to happen.
+But like, they're not usually worried about this.
+Yeah, yeah.
+So you're using a relatively new product stripe
+usage based billing for this.
+How is that you migrated from Zora for that?
+How has that process been?
+Yeah, I mean, I would say just to go back to earlier,
+like we afforded ourselves too much complexity.
+And we kind of codified that complexity in Zora.
+I guess the best way to describe it is
+we just twisted ourselves in knots, you know?
+And it got to a place where we actually,
+we ended up like Kieran Lee, who's our CTO here.
+He ended up actually returning to the company one mission,
+which was like, I am going to own...
+Fix billing.
+Yeah, exactly, to fix this, right?
+And like, it worked, right?
+But it was like, it was a substantial amount of work
+to like unwind so much.
+And then like, they were like,
+they're kind of like deconstruct so many of these
+like a la carte, Microsoft Word style deals
+into something that was a go forward, acceptable or whatever.
+And then obviously moving towards
+like a clean, transparent seat based pricing
+and then just layering on a usage based on top
+was actually pretty simple in the greatest scheme of things.
+Like unlike all the stuff that we needed,
+you guys were ahead of us on like with discounts for volume,
+et cetera, all the sort of obvious stuff
+people would push for.
+Yeah, yeah.
+Is this just where pricing in this new world goes?
+Because obviously no one buys labor on an unlimited basis.
+And at least for the moment,
+the inputs of AI do actually scale with usage,
+for a significant basis.
+And so it feels like you have to have
+some usage based pricing.
+This is certainly the best we are making
+where again, the reason that billing
+kind of the top thing they're thinking about
+is kind of making billing work well in the usage based world
+is it just feels like many products
+are becoming much more expensive to serve
+and therefore have to have a usage based component.
+But is this permanent or I don't know,
+does the AI get cheap enough
+that maybe we go back to unlimited plans or I don't know.
+I don't know if unlimited plans will ever, well,
+I don't know.
+Here's what I think about it like,
+I think ultimately all AI has like two vectors
+like how much work you're doing and how well you're doing it.
+And the volume of work you're doing,
+it's almost, well actually both of them
+are going to be like proportional to how many tokens
+you're burning or whatever.
+So you're going to want to factor that in,
+especially if you're a consumer app as well.
+We're just going to go nuts.
+So I think like you have to like have some,
+I'm not a fan of like cost plus pricing,
+but it does place a kind of a lower bound
+on what you can do here, which is just okay.
+Unlike SaaS, you are actually sending money
+at the back door as well.
+So I think you have to have something
+that's proportionate to how much work you're doing.
+And then I think as aside from that,
+you have to charge consistent
+with like how much work you're displacing.
+I think that's where you can sort of say,
+hey, like, you know, for us anyway,
+like if you take an average person who sits in a seat
+to do customer service, if they do like,
+let's just say they do 20 conversations a day,
+that's about 400 conversations a month.
+For when we were thinking about how we charge,
+we're like, hey, well,
+if that person does 400 a month and,
+you know, fined at 65% of that seat,
+we're still low because we're only charging
+like whatever $90 for a seat.
+So from our point of view,
+it was like an obvious and easy swap.
+I think for a lot of businesses,
+it might not be if your AI doesn't work or it's furious
+or like it's value can't be articulated.
+Like isn't it cool that you can now dynamically summarize
+the Ghetto issue or something like that?
+You're like, cool, I don't know how much people
+will pay for that.
+Cause they don't know.
+They don't know either.
+Like, hey, you can now generate random graphics
+in your like, in your newsletter tool.
+Like vitamins versus painkillers, AI pricing.
+Yeah. And like, and it's specifically like,
+in this case, the painkillers have a very strict,
+like if we don't do it, a human's going to do it.
+And we know exactly what they cost.
+And the vitamins doesn't have anything approximating that.
+So it's not only is it a nice to have,
+it's like, I don't even know what it's worth.
+So like, you know, I saw a while ago,
+it's like someone said like,
+when, you know, when studio Ghibli came out
+and everyone was like using like that,
+someone said like, hey, the fiverr.com equivalent
+of all these things would have been like trillions
+of dollars and you're like, right,
+but like no one was ever going to spend that.
+So there's no sane way to actually talk
+about what actually happens here.
+And it was Bern Hubbard who said that,
+you know, when you're tied to business outcome,
+that business outcome is usually done by humans,
+I think it's going to be really, really easy to join,
+to make a business case for saying swap this over to AI,
+it's better, faster, cheaper.
+I think when your AI is not tied to business impact
+or is like debatable in quality or whatever,
+I think, you know, you end up with these people
+who are just like, oh, let's just stick a tenor
+on the seat and see what happens.
+You know, so it's like, you know,
+normal seat or an AI seat.
+I mean, you're kind of like,
+I hope no one uses the AI too much.
+You're permitting yourself to build weak AI stuff
+if you do that, because you're not pushing yourselves
+to say, hey, we need to articulate the value
+of each incremental usage here.
+Well, when you talk about this AI pricing dynamic,
+one thing that really strikes me is just
+how fast AI companies grow from a revenue perspective.
+So I just saw Matty from 11 Labs.
+We actually have a great session at our customer event
+in London, but he tweeted that they've just passed
+200 million in ARR and that's two years after founding
+on it, maybe three years after founding.
+But, you know, in my day, businesses didn't do that
+and it's really striking for me how somehow
+they seem to climb the revenue ramps much quicker.
+I know.
+I mean, you guys are at Fin in another example.
+Yeah, yeah, for sure.
+I mean, forecast like Fin will be 100 million
+probably early next year or whatever, and like back at once.
+Yeah, from when?
+Like starting from?
+I don't know, probably about two years,
+something like that.
+Yeah, yeah, so two years to 100 million in ARR.
+Like, when we started, probably when you guys started,
+like, it was like, that was the threshold to go public.
+Exactly, yeah, yeah.
+It used to take a long time to get to 100 million in ARR.
+That was like seven years.
+It used to be a lot of money.
+Yeah, exactly, back in the day.
+But yeah, the acceleration is more there.
+There's like, money is, you know, 11 is a fantastic product,
+right, like, and it's a great example of like,
+there's like four kind of, if you like,
+horsemen of AI products that I observe
+whenever I'm investing, it's rare you see all four.
+But the things you want in an AI startup is kind of,
+one is like, is the revenue backed by usage.
+Like, that's why I love usage-based revenue, right?
+As opposed to like, you know,
+shelf wear or pilot wear.
+Yeah.
+You sold it to two guys in the corner
+and they're going to put it live someday.
+So like, you want revenue backed by usage.
+You want the usage tied to a real business impact.
+So that's the emission critical.
+You know, as in like, if you're building a phone product
+on top of 11, like, if that doesn't work,
+that's really bad.
+So it's critical.
+The third one is obviously you want deep AI,
+deep differentiated AI, can't be a same wrapper.
+And then the fourth one is like,
+you actually want positive unit margins under all this,
+or at least a clear path to positive unit margins
+if you're not there already.
+And I think when you look at so much of the AI landscape,
+you'll see so few businesses that I've all for.
+It's such a rare sort of error to be in,
+to be like, actually, okay, we're doing a real thing,
+we're real differentiated AI, it really matters to businesses
+and we're making money off it.
+Most of the time when you hear about these,
+well, we went from zero to six million overnight.
+It's kind of like, you know,
+to generate JPEGs over Smurf or whatever.
+And you're like, all right, cool,
+I'm not sure that's going to renew, you know.
+Yeah.
+That's the simplest AI investing framework I've heard.
+Tell you why it's simple,
+because you're going to basically write no checks.
+So like, I guess I'd say most of the AI companies
+have invested in AI, probably Tria 4, Tria 4, that's it.
+The only one on my equivalent there,
+I think that's very good for staying out of trouble.
+And this is where, you know, I tend to push back
+when people are saying, oh, it's an AI bubble.
+It's like, I don't know,
+I think people are happy with the tokens they're buying.
+You know, I think like, there's a lot of tokens
+happening and just generally they seem to be delivering
+useful outcomes to customers
+because they're actually delivering value
+on the customer service side,
+or people enjoy their mid-journey adventure.
+Like, people are getting value from the product.
+I used to say, so it's a pushback that doesn't,
+like, it's an issue.
+I was going to push back on number four,
+which is positive unit margins
+because just aren't the underlying costs,
+like, again, when you guys started FIM,
+it sounds like it was underwater, right,
+but then just pretty quickly at right sizes
+as you optimize it.
+And so couldn't one be too focused
+on the current implementation?
+Yeah, I mean, this is a conversation I have internally
+with our CFO quite a bit, actually.
+Because we're good.
+You can imagine the kind of thing I see.
+Hey, Dez, you have five minutes to talk about that.
+That's exactly the last thing.
+Money-messing AI product.
+Yeah, hey, quick chat.
+I can't help but notice the team
+of doing this preemptive loading
+or whatever it's called, saying,
+this shit, load of money.
+So what's my counter to that?
+I guess, I prefer it if the path towards profitability
+isn't just like, you know,
+open AI is going to figure this out for me, right?
+Like, an interesting way I'd say it is like,
+with FIM, for example, obviously our profit goes up
+when we are firing less dead tokens.
+A dead token being we've generated an answer
+and it wasn't right, so we can't charge money for it.
+Like if you're like, say, like guessing the next line of code,
+right, or like tab to autocomplete the next line of code,
+if like five of six of those is wrong,
+I don't know if you're ever going to get bailed out
+because your basis, five-sixths of your costs
+is like, you know, it's not something you can resell.
+So like there's a questionnaire of like,
+how much of your tokens are actually generating
+a thing that a user wants,
+independent of what you charge for it.
+As long as the user wants it,
+I think you're always in good condition,
+whereas if you're like burning a million tokens to find one,
+and that one, you're never going to be able to recoup your cost
+or at least, you know, I'd love to see your telemetry
+to make sure that you actually have taught this true.
+I suspect you haven't, you know.
+Yeah, I think.
+45, that's not bad.
+Yeah, but I was very impressed
+by the multiple purely deliberate 20s, so.
+I'm curious about the co-founder dynamic
+you guys have across all the co-founders,
+where let me try this on.
+My sense is that people want to have
+a subject matter area based explanation
+for co-founder, you know, collaboration,
+where, you know, I'm the technical guy
+and the business guy, whatever.
+And in my experience, or at least with me and Patrick,
+it's much more personality tension based,
+where I would say he's more visionary and expansionary.
+And I'm more, well, you know, we have food at home
+already, you know, you got to finish the products
+that you're already doing.
+Or, you know, I'm more frugal
+and he always wants to spend all our money,
+or, you know, whatever the tension you're describing is.
+And then there's a useful, well, one,
+it's useful to have someone to be able to,
+you go back mad by yourself,
+trying to solve all these fairly naughty problems.
+But also a good company strategy probably exists
+at the intersection of those tensions.
+Does that describe your relationship with your co-founders
+and what would you describe as the personality tensions?
+I mean, we're definitely all different.
+There's a lot of key things we all agree on.
+Own would be like a, like first and foremost,
+I mean, he's like, he's a very strong CEO.
+He's very decisive and he's very brave,
+as to best way I could describe it.
+An interesting thing, like when he returned to Intercom,
+one of the things he did was basically rebuild the culture.
+And one of the things he focused on
+was like resilience and open mind in this.
+You know, we didn't know a way,
+I was coming, he didn't know a way, I was coming,
+but like to be able to like react to AI requires
+a lot of manic pivots,
+zero certainty, and ultimately conviction bets.
+And I can't think of somebody better to do it.
+That wouldn't have been me, like not a million years.
+I would be like, like even being as AI-pilled as I am,
+I still would have like, and I can even,
+I even look back at my own performance in that period.
+I'm like, you know what, I wasn't brave enough.
+Like one of the things I'm pushed for
+was the city of creating the team thing,
+which is like, hey, let's just build a new startup.
+Let's isolate them for everyone else.
+Different floor, different section in the office.
+No one else is in there.
+It's just their own stock channels,
+their own everything, they're entirely secluded.
+And how do you not push for that?
+I don't know if we would add the clarity
+and focus that we needed.
+People might be offended.
+Yeah, yeah, of course.
+Like all of the things, all of the downsides
+you'd possibly guess are all there.
+I just, I also think like that there's no path to like,
+there's no way, you know, the phrase I've settled on
+when I look back on this is like,
+sometimes you just, you have to go too far
+to know you've gone far enough, you know?
+And I think a lot of the mistakes I see
+in people who are trying to adapt to AI,
+for example, I'll come back to the co-founder
+and he was like, is like, they tell themselves
+that they've done enough because they,
+oh, you know, a few sparkly buttons,
+the merge features AI, and we're happy.
+We have an AI assistant to the products.
+Yeah, exactly.
+And we've updated our homepage and say we're able to.
+Yeah, first.
+So like, we're good.
+And I think you need to be willing,
+genuinely willing to like make brave, hard to undo bets.
+And I think you need like sort of obviously,
+you know, having this sort of moral authority
+of a founder and then being CEO kind of gives you
+some of that, but still it's a huge decision to make.
+And I think like I am much more of an,
+my default DNA is like, I'm more of an operator
+in the sense of like, all right, what are we doing?
+Okay, well I'll make it work.
+You know, whatever it is.
+And I think if it was a company of like people like me,
+what you'd see is probably like, you know,
+predictable, reliable, sustainable performance or whatever.
+But probably not enough actual like,
+sort of, well definitely not enough
+kind of brave big swings,
+which is actually where you need to get to.
+But I mean, it is a cocktail.
+Like somebody needs to go and actually do the thing
+once we decided what we're doing as well.
+It ended up like I was leading team Finn
+after I decided it.
+And like that was ultimately what led to the creation
+of like the whole Finn initiative or whatever.
+You've now worked with so many different companies
+externally, you've seen a lot.
+What is predictive of success
+and what is predictive of failure?
+The biggest thing I'll always come back to
+when I'm talking to anyone who's trying to pitch me
+to invest or pitch me to introduce John to invest
+is it's always some version of,
+do you have a real product that solves a real problem
+that really exists
+and people are really already trying to solve
+by paying money or a time somewhere.
+It sounds so trivial,
+you'll be shocked how many times you'll fail
+or you'll get some sort of jazz hand type routine
+somewhere along the way
+where it's like don't look too much at this
+but just trust me,
+the areas that I ended up being blind to
+and that is like the extremely market expanded type things
+like is in,
+if someone said to you, hey,
+like all companies are gonna have a chat room
+and they're gonna all hang out in an all day
+and have one product of conversations,
+it's gonna be big.
+I'd be like, oh, I don't see it.
+Like, you know,
+whereas like the,
+so you wouldn't have missed out on Slack or whatever, right?
+But I think like,
+I can almost, you know,
+hear from the like,
+what are you building and why and who's a for
+and show me what the product does.
+If it's not a real solution to a real problem,
+I'm kind of already out.
+And then the other big,
+I'd say prediction is just,
+like there's,
+one of the things that's happened in the last 10 years,
+sure you've seen this load is like,
+it was a lot easier to invest
+when being a founder was uncool.
+And I think like combination of like,
+I blame genuinely the social network.
+I blamed is just kind of the entrepreneurial lifestyle.
+I blame my TikTok,
+I blame all these things.
+So yeah, yeah, yeah, exactly.
+All of that, right?
+To some degree like remote working,
+I didn't show in the mix as well.
+But I think the amount of people
+who are chasing the trinkets
+of being a founder of a startup,
+even if they're quite smart
+and they can actually kind of go and build something,
+if their actual motivation isn't the problem
+or isn't just some deep desire to be quite successful,
+but it is instead to be perceived
+like the whole kind of,
+I could have been a contender,
+rather than I could have contended,
+like if you don't really,
+really want to be like,
+to actually play the game,
+but instead you just want to be seen to be playing the game.
+I think that's probably the single biggest thing
+that tells me like, you know, you're probably,
+your best case scenario, you'll sell a 5 million,
+but more likely you'll still be alive in seven years.
+All your investors will wonder what you're doing.
+And you'll be basically sending
+one investor update every now and then.
+Yes.
+I have noticed investor updates with metrics
+don't predict success,
+but investor updates without metrics
+that tell a really fancy story,
+but don't have metrics
+are actually quite predictive of failure.
+Yeah.
+Those companies always fail.
+I basically 100% agree.
+And honestly, you can even tell
+where the metrics are in the update.
+Yeah.
+Like, because often I was like,
+do my favorite updates,
+I mean, there's a company
+that actually probably should be.
+And no investor updates are fine.
+There's like a bunch of successful companies
+that just never,
+we never sent investor updates.
+Like, I'm sorry for all the investors,
+but we were bad communicators.
+I was curious.
+Yeah, yeah.
+But if, exactly.
+But if you go,
+oh, you and Nima,
+if you go to the trouble
+of writing an investor update
+and then make a proactive decision
+to not say how your business is doing,
+that's just some deep denial
+about what running business means.
+So there's one company I can't say,
+but like we're both an investor in it,
+but like their updates just,
+one of the most recent ones was just like,
+here's performance error plus to 17%,
+blah, plus this, blah, plus that.
+You know,
+something like, you know,
+I hope you can see from the numbers.
+We're doing great.
+Best of luck.
+See you next quarter.
+And I was like, yeah, brilliant.
+Yeah.
+Archive, I'll mark it up.
+You know, like,
+there's something like,
+I think in general,
+you know,
+the degree to, I think it was Paul Graham said,
+like the ratio of numbers to words
+is usually the actual thing you're looking for,
+like, which is like,
+if the numbers speak,
+then the words don't have to.
+Yes, yes.
+What else is predictive of success?
+Numbers is one.
+I almost kind of want to say the inverse
+of all the things that I hate seeing.
+I hate seeing founders
+who invest massively in their personal brand
+instead of their company brand.
+I hate seeing like people who are like obsessed,
+but like, if the first three or four updates,
+I get like bags for retweets and quote tweets
+and all that sort of stuff.
+That's always not a great sign
+because it sort of says to me,
+you haven't worked out how to market or whatever.
+I like anything around like,
+you know, what are the customers saying?
+Like, that's like, you know,
+whenever I reply and say,
+like, what's the customer's thinking of this feature?
+They're like, oh, we're going to ask them.
+Maybe what you're describing is
+there's a very boring playbook,
+boring and glamorous playbook
+for making products work
+about writing code, talking to customers,
+running that iterative loop
+and avoiding distractions.
+And people who seem incurious about that playbook
+or just are failing to execute on it
+is kind of a warning sign.
+Yeah, I would say that's definitely true.
+Like, so it's basically like,
+if you've got like a decent product,
+a decent area or real solution,
+and you're just willing to like work
+on the boring stuff that needs doing
+to actually make that whole thing.
+And then will you get bored near
+or are you still excited by it?
+Like, I think to some degree,
+even a successful founders can get distracted
+by glamorous opportunities
+where whether it's like,
+oh, there's a new wave of whatever,
+like crypto or like NFTs or whatever.
+You'll see people get their head turned quite a bit.
+And I think that if you're like genuinely married
+to the problem and married to the solution,
+you'll tend to like sort of not be as destructible.
+And then like so many of these businesses just need time.
+Like they just need time and execution.
+Yeah, totally.
+Last question, because I've had a lot.
+In what ways is Intercom itself AI native?
+The biggest initiatives we've driven recently
+has been like around how we actually do R&D.
+So I think we launched this initiative,
+Dara launched it, I think about four months ago
+called 2x where we basically said,
+hey, like we're going to double the productivity
+of R&D before February 1st.
+That means the, and we measure this
+and like everyone's gonna poke holes in this
+and that's ground, but it doesn't really matter.
+The measurement is, I think it's deployments
+to production involving code
+that has to execute regularly, right?
+So it's a hard thing to fake.
+If you fake it, it's like, we should probably fire you.
+You know, cause like so.
+Now, interesting evidence is like,
+is that just the engineers going really hard?
+No, like there's like so many different elements to this,
+but one of the biggest ones that we saw recently,
+which really has been like awesome
+is Amit, our head of design,
+he basically said every designer by August 1st
+needs to be shipping code.
+This is like the end to the discussion
+of should designers code, right?
+Designers should code.
+So we basically said, hey, like all designers
+can kind of ship code.
+Weirdly, the wind there is that like
+the amount of engineering destruction has just gone away.
+So every paper quote in your UI
+used to result in a GitHub issue
+to get filed and triaged and get picked up on a Friday
+and between breaks or whatever.
+And now all that just goes.
+And now you're like, oh, I want to fix this button,
+fix that padding, fix that thing,
+change that radius, change that color.
+All that shit just happens automatically.
+And like it's getting to much easier stuff,
+like redesign this entire UI,
+redesign this flow, change this wizard.
+All of that's now being managed entirely
+by design team.
+What that has resulted in is like engineers
+who are now doing far more like
+staying in the zone for a greater,
+using like words called code or codex
+or any of those or augment or any of those tools
+to actually just, you know, be far more productive.
+And there's some real wins here.
+One recent one we had was like Finn works in Slack.
+But when we were building that,
+it was built very firmly from like,
+how do we use AI here?
+So it was like, let's build one perfect Slack solution.
+Let's document all of our principles
+and then let's have cloud code, right?
+The Microsoft Teams, the Discord, the WhatsApp,
+it's every other solution.
+So we went live to production with Slack,
+but I think we have like everything else now
+and like public beta, like, and it'll all go live.
+So we're finding all these like,
+it's a lot of like 1.2x wins,
+but then every now and then,
+there's like a 50x productivity boost that we're finding.
+So I think that's probably the biggest way
+in which like the product has been built from an AI native way.
+On the go-to-market side of the house,
+we've been slower, but like,
+I think we're like, we're looking at like,
+we've trained a GPT, if you like,
+on like all of our marketing,
+copyright principles, our content, our visuals, et cetera.
+And we've been using that to produce a lot of like,
+you know, stuff like event invites and things like that.
+Well, that's, thank you.
+Cheers, thanks very much.
+Yeah.
+Thank you.

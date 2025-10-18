@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+ytaudio/__init__.py
+ytaudio/audio.py
+ytaudio/cli.py
+ytaudio/download.py
+ytaudio/stt.py
+ytaudio/utils.py
+ytaudio.egg-info/PKG-INFO
+ytaudio.egg-info/SOURCES.txt
+ytaudio.egg-info/dependency_links.txt
+ytaudio.egg-info/entry_points.txt
+ytaudio.egg-info/requires.txt
+ytaudio.egg-info/top_level.txt
